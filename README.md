@@ -68,10 +68,10 @@ It demonstrates user authentication, task management, and CRUD functionality usi
 ## Screenshots
 
 ### 🔐 Add Task
-![Add Task](screenshots/Add Task.png)
+![Add Task](screenshots/add_task.png)
 
 ### ✅ Task List Page
-![Task List](screenshots/List Tasks.png)
+![Task List](screenshots/list_tasks.png)
 
 ## Technologies Used
 - **Laravel 10.x**: PHP framework for back-end logic.
